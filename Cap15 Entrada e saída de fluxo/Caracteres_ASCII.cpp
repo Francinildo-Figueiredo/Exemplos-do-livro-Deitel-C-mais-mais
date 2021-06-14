@@ -13,6 +13,7 @@ int main()
 {
 	int counter = 33, j = 0;
 	
+	// Imprimindo os caracteres da tabela ASCII de 33 a 126
 	cout << "\n";
 	do
 	{
