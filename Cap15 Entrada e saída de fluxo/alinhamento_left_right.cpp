@@ -17,7 +17,7 @@ int main()
 	cout << "Padrão, alinhamento a direita:\n"
 		<< setw( 10 ) << x;
 	
-	// utiliza o manipulador left para exibir x alinhado à esquerda
+	// utiliza o manipulador left para exibir x alinhado a esquerda
 	cout << "\n\nUtilizando a função-membro left para alinhar x a esquerda:\n"
 		<< left << setw( 10 ) << x;
 	
